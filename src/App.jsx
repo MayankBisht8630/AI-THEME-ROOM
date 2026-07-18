@@ -219,12 +219,12 @@ const gallery = [
     tag: 'Capacity Building',
     text: 'Workshop-ready room for demos, training, and department orientation sessions.',
   },
-  {
-    title: 'Application Dashboard',
-    image: appImage,
-    tag: 'Built Applications',
-    text: 'AI tools for document intelligence, tourism, archives, and governance workflows.',
-  },
+  // {
+  //   title: 'Application Dashboard',
+  //   image: appImage,
+  //   tag: 'Built Applications',
+  //   text: 'AI tools for document intelligence, tourism, archives, and governance workflows.',
+  // },
   // {
   //   title: 'Operations Intelligence Wall',
   //   image: operationsImage,
