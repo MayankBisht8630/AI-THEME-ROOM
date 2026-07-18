@@ -421,7 +421,7 @@ function App() {
             <span>
               <span className="brand-kicker">Lok Bhawan, Uttarakhand</span>
               <strong>AI Theme Room</strong>
-              <span className="brand-subtitle">Governance Innovation and AI Demonstration Centre</span>
+              {/* <span className="brand-subtitle">Governance Innovation and AI Demonstration Centre</span> */}
             </span>
           </a>
 
