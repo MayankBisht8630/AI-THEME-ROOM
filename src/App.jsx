@@ -40,7 +40,7 @@ import {
 
 import heroImage from './assets/ai-theme-hero.png'
 import citizenDemoImage from './assets/citizen-services-demo.png'
-import trainingRoomImage from './assets/training-room.png'
+import trainingRoomImage from './assets/AIR.jpeg'
 import applicationsImage from './assets/FSP.png'
 import operationsImage from './assets/ai-operations-wall.png'
 import aiOnWheelsImage from './assets/AIOWP.jpeg'
@@ -51,6 +51,8 @@ import techWorkshopImage from './assets/ST.jpeg'
 import appImage from './assets/APP.png'
 import publicWelfareImage from './assets/K.jpeg'
 import trainingImage from './assets/AIOW1.jpeg'
+import innovationImage from './assets/CIMG.jpeg'
+import aiThemeRoomLaunchImage from './assets/AITRL.jpeg'
 
 const navItems = [
   { label: 'Home', href: '#home' },
@@ -182,6 +184,18 @@ const gallery = [
     text: 'The moving AI lab initiative designed to take AI awareness beyond Lok Bhawan.',
   },
   {
+    title: 'AI Theme Room Inauguration',
+    image: aiThemeRoomLaunchImage,
+    tag: 'AI Theme Room',
+    text: 'The innovation space to showcase potential of Artificial Intelligence in governance,',
+  },
+  {
+    title: 'Innovation Exhibition',
+    image: innovationImage,
+    tag: 'Initiatives',
+    text: 'Showcase of applications, AI initiatives, prototypes, and future project ideas.',
+  },
+  {
     title: 'School Awareness Session',
     image: schoolAwarness,
     tag: 'Student Outreach',
@@ -241,12 +255,6 @@ const gallery = [
     tag: 'AI on Wheels',
     text: 'AI learning and demonstration programmes delivered through the mobile lab.',
   },
-  // {
-  //   title: 'Innovation Exhibition',
-  //   image: applicationsImage,
-  //   tag: 'Initiatives',
-  //   text: 'Showcase of applications, AI initiatives, prototypes, and future project ideas.',
-  // },
 ]
 
 const teamStructure = [
@@ -517,8 +525,12 @@ function Hero() {
           </span>
           <h1>AI for Public Welfare, Students, and Digital Governance</h1>
           <p>
-            AI Theme Room is a government initiative at Lok Bhawan, Uttarakhand to build public-welfare
-            AI applications, analytics dashboards, student awareness programmes, and AI-led digital initiatives.
+            The AI Theme Room is a innovation space established to showcase the transformative
+            potential of Artificial Intelligence in governance, education, public welfare, and citizen services. It
+            serves as a center for demonstrating AI-powered solutions developed to support the Government of
+            Uttarakhand in delivering efficient, transparent, and citizen-centric services. This initiative reflects
+            the vision of leveraging emerging technologies to build a digitally empowered society while fostering
+            innovation, research, and technological awareness across the state.
           </p>
 
           <div className="hero-actions">
